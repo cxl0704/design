@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="xWIwK_OhusZWQd07aJjQ-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" parent="1" vertex="1">
-          <mxGeometry x="40" y="30" width="770" height="820" as="geometry" />
+          <mxGeometry x="40" y="190" width="770" height="910" as="geometry" />
         </mxCell>
         <mxCell id="yv5htLAf3GQugLqv7UDI-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
           <mxGeometry x="60" y="40" width="730" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yv5htLAf3GQugLqv7UDI-3" value="Logo 网站名称" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="40" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yv5htLAf3GQugLqv7UDI-4" value="菜单1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="40" width="120" height="60" as="geometry" />
@@ -23,7 +23,52 @@
           <mxGeometry x="460" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yv5htLAf3GQugLqv7UDI-7" value="个人中心&lt;div&gt;登录等&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="670" y="40" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yv5htLAf3GQugLqv7UDI-9" value="内容页" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="65" y="190" width="725" height="725" as="geometry" />
+        </mxCell>
+        <mxCell id="yv5htLAf3GQugLqv7UDI-8" value="滚动公告栏" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="65" y="200" width="725" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yv5htLAf3GQugLqv7UDI-10" value="全宽搜索框" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="110" width="770" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yv5htLAf3GQugLqv7UDI-11" value="幻灯片" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="270" width="520" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="yv5htLAf3GQugLqv7UDI-13" value="侧边栏" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="270" width="180" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="yv5htLAf3GQugLqv7UDI-14" value="个人中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="280" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="yv5htLAf3GQugLqv7UDI-15" value="排行榜" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="440" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yv5htLAf3GQugLqv7UDI-16" value="广告栏" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="620" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yv5htLAf3GQugLqv7UDI-17" value="标签云" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="760" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yv5htLAf3GQugLqv7UDI-19" value="内容页" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="74" y="430" width="516" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="yv5htLAf3GQugLqv7UDI-20" value="热门推荐卡片" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="455" width="470" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yv5htLAf3GQugLqv7UDI-21" value="专题卡片" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="530" width="470" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yv5htLAf3GQugLqv7UDI-22" value="最新发布卡片" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="619" width="470" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yv5htLAf3GQugLqv7UDI-23" value="页面底部" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="940" width="740" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yv5htLAf3GQugLqv7UDI-25" value="页脚&lt;div&gt;友链等等&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1030" width="770" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
